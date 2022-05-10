@@ -1,0 +1,20 @@
+Z:\CatchBone\CatchBone\bin\Debug\CatchBone.exe.config
+Z:\CatchBone\CatchBone\bin\Debug\CatchBone.exe
+Z:\CatchBone\CatchBone\bin\Debug\CatchBone.pdb
+Z:\CatchBone\CatchBone\obj\Debug\CatchBone.Form1.resources
+Z:\CatchBone\CatchBone\obj\Debug\CatchBone.Properties.Resources.resources
+Z:\CatchBone\CatchBone\obj\Debug\CatchBone.csproj.GenerateResource.cache
+Z:\CatchBone\CatchBone\obj\Debug\CatchBone.csproj.CoreCompileInputs.cache
+Z:\CatchBone\CatchBone\obj\Debug\CatchBone.exe
+Z:\CatchBone\CatchBone\obj\Debug\CatchBone.pdb
+Z:\CatchBone\CatchBone\obj\Debug\CatchBone.csproj.AssemblyReference.cache
+D:\BS (SE)\Software Construction Lab\8\CatchBone\CatchBone\bin\Debug\CatchBone.exe.config
+D:\BS (SE)\Software Construction Lab\8\CatchBone\CatchBone\bin\Debug\CatchBone.exe
+D:\BS (SE)\Software Construction Lab\8\CatchBone\CatchBone\bin\Debug\CatchBone.pdb
+D:\BS (SE)\Software Construction Lab\8\CatchBone\CatchBone\obj\Debug\CatchBone.csproj.AssemblyReference.cache
+D:\BS (SE)\Software Construction Lab\8\CatchBone\CatchBone\obj\Debug\CatchBone.Form1.resources
+D:\BS (SE)\Software Construction Lab\8\CatchBone\CatchBone\obj\Debug\CatchBone.Properties.Resources.resources
+D:\BS (SE)\Software Construction Lab\8\CatchBone\CatchBone\obj\Debug\CatchBone.csproj.GenerateResource.cache
+D:\BS (SE)\Software Construction Lab\8\CatchBone\CatchBone\obj\Debug\CatchBone.csproj.CoreCompileInputs.cache
+D:\BS (SE)\Software Construction Lab\8\CatchBone\CatchBone\obj\Debug\CatchBone.exe
+D:\BS (SE)\Software Construction Lab\8\CatchBone\CatchBone\obj\Debug\CatchBone.pdb
